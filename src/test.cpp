@@ -16,6 +16,7 @@ int main() {
 	cout << "!!!Hello World!!w !" << endl; // prints !!!Hello World!!!
 	int a=0;
 	a+=1;
+	int b=0;
 	cout<<a<<endl;
 	return 0;
 }
